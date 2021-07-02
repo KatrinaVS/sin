@@ -1,0 +1,13 @@
+D:\tms\sin\sin\bin\Debug\netcoreapp3.1\sin.exe
+D:\tms\sin\sin\bin\Debug\netcoreapp3.1\sin.deps.json
+D:\tms\sin\sin\bin\Debug\netcoreapp3.1\sin.runtimeconfig.json
+D:\tms\sin\sin\bin\Debug\netcoreapp3.1\sin.runtimeconfig.dev.json
+D:\tms\sin\sin\bin\Debug\netcoreapp3.1\sin.dll
+D:\tms\sin\sin\bin\Debug\netcoreapp3.1\sin.pdb
+D:\tms\sin\sin\obj\Debug\netcoreapp3.1\sin.AssemblyInfoInputs.cache
+D:\tms\sin\sin\obj\Debug\netcoreapp3.1\sin.AssemblyInfo.cs
+D:\tms\sin\sin\obj\Debug\netcoreapp3.1\sin.csproj.CoreCompileInputs.cache
+D:\tms\sin\sin\obj\Debug\netcoreapp3.1\sin.dll
+D:\tms\sin\sin\obj\Debug\netcoreapp3.1\sin.pdb
+D:\tms\sin\sin\obj\Debug\netcoreapp3.1\sin.genruntimeconfig.cache
+D:\tms\sin\sin\obj\Debug\netcoreapp3.1\sin.csproj.AssemblyReference.cache
